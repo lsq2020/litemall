@@ -3,3 +3,5 @@
 /litemall-all.iml
 .project
 .settings/
+.classpath
+/bin/
