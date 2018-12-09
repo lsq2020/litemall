@@ -1,3 +1,5 @@
 
 /target/
 /litemall-admin-api.iml
+.project
+.settings/

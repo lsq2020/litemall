@@ -1,3 +1,5 @@
 
 /target/
 /litemall-wx-api.iml
+.project
+.settings/
