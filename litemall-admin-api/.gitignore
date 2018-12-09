@@ -3,3 +3,5 @@
 /litemall-admin-api.iml
 .project
 .settings/
+.classpath
+/bin/

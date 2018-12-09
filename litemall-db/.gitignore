@@ -3,3 +3,5 @@
 /litemall-db.iml
 .project
 .settings/
+.classpath
+/bin/

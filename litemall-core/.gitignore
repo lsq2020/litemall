@@ -2,3 +2,7 @@
 /target/
 /litemall-core.iml
 /storage/
+.classpath
+.project
+.settings
+/bin/

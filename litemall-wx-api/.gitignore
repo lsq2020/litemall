@@ -3,3 +3,5 @@
 /litemall-wx-api.iml
 .project
 .settings/
+.classpath
+/bin/
