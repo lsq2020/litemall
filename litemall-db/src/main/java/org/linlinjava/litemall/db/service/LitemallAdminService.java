@@ -14,7 +14,7 @@ import java.util.List;
 
 @Service
 public class LitemallAdminService {
-    private final Column[] result = new Column[]{Column.id, Column.username, Column.avatar};
+    private final Column[] result = new Column[]{Column.id, Column.username, Column.avatar, Column.roleIds};
     @Resource
     private LitemallAdminMapper adminMapper;
 
@@ -75,5 +75,4 @@ public class LitemallAdminService {
     public LitemallAdmin findById(Integer id) {
         return adminMapper.selectByPrimaryKeySelective(id, result);
     }
-
 }
